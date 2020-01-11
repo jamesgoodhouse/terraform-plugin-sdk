@@ -7,6 +7,7 @@ require (
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/apparentlymart/go-cidr v1.0.1
 	github.com/apparentlymart/go-dump v0.0.0-20190214190832-042adf3cf4a0
+	github.com/apparentlymart/terraform-plugin-test v1.1.0
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/aws/aws-sdk-go v1.25.3 // indirect
 	github.com/davecgh/go-spew v1.1.1
@@ -27,6 +28,7 @@ require (
 	github.com/hashicorp/hcl/v2 v2.0.0
 	github.com/hashicorp/logutils v1.0.0
 	github.com/hashicorp/terraform-config-inspect v0.0.0-20191115094559-17f92b0546e8
+	github.com/hashicorp/terraform-json v0.3.1
 	github.com/hashicorp/terraform-svchost v0.0.0-20191011084731-65d371908596
 	github.com/hashicorp/yamux v0.0.0-20181012175058-2f1d1f20f75d // indirect
 	github.com/keybase/go-crypto v0.0.0-20161004153544-93f5b35093ba
@@ -42,7 +44,7 @@ require (
 	github.com/posener/complete v1.2.1 // indirect
 	github.com/spf13/afero v1.2.2
 	github.com/vmihailenco/msgpack v4.0.1+incompatible // indirect
-	github.com/zclconf/go-cty v1.1.0
+	github.com/zclconf/go-cty v1.2.1
 	github.com/zclconf/go-cty-yaml v1.0.1
 	golang.org/x/crypto v0.0.0-20190820162420-60c769a6c586
 	golang.org/x/net v0.0.0-20191009170851-d66e71096ffb
