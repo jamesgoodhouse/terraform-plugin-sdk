@@ -7,7 +7,7 @@ require (
 	github.com/agl/ed25519 v0.0.0-20170116200512-5312a6153412 // indirect
 	github.com/apparentlymart/go-cidr v1.0.1
 	github.com/apparentlymart/go-dump v0.0.0-20190214190832-042adf3cf4a0
-	github.com/apparentlymart/terraform-plugin-test v1.1.0
+	github.com/apparentlymart/terraform-plugin-test v1.1.1-0.20200123164706-8580a6da9fad
 	github.com/armon/go-radix v1.0.0 // indirect
 	github.com/aws/aws-sdk-go v1.25.3 // indirect
 	github.com/davecgh/go-spew v1.1.1
@@ -19,7 +19,7 @@ require (
 	github.com/google/uuid v1.1.1
 	github.com/hashicorp/errwrap v1.0.0
 	github.com/hashicorp/go-cleanhttp v0.5.1
-	github.com/hashicorp/go-getter v1.4.0
+	github.com/hashicorp/go-getter v1.4.1
 	github.com/hashicorp/go-hclog v0.9.2
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/hashicorp/go-plugin v1.0.1
